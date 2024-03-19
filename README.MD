@@ -14,9 +14,6 @@ PolyRate is an interactive web application designed for providing ratings and fe
 - [Dependencies](#dependencies)
 - [Configuration](#configuration)
 - [Running the Server](#running-the-server)
-- [Documentation](#documentation)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
